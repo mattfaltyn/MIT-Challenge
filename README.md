@@ -1,4 +1,4 @@
-# MIT-Challenge
+# MIT Challenge
 
 Inspired by [Scott H. Young's MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/), I am going to complete 12 MIT computer science courses in under 12 months through [MIT OpenCourseWare](https://ocw.mit.edu/).
 
