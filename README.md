@@ -6,18 +6,19 @@ During my formal training in mathematics, I spent some time writing and analyzin
 
 I am embarking on this journey to accomplish one major objective: develop a thorough understanding of algorithms and data structures. From reviewing the MIT computer science curriculum and comparing it to my university transcript, I believe that the main gap in my understanding of computer science is precisely these two concepts. 
 
-Listed below are the 12 classes I will be taking. For each of these classes, I will create and publish a 5-10 page (excluding images and references) summary of the course material.
+Listed below are the 12 classes I will be covering. For each of these classes, I will create and publish a short document that contains the notes that I found most interesting or important. Additionally, I will create a small implementation of one of the course's topics in Rust. 
 
-## Learning Progress (0/12):
 
-### 6.042[J]: Mathematics for Computer Science
+## Learning Progress (1/12):
+
+### 6.042J: Mathematics for Computer Science
 - Instructor(s): Prof. Albert R. Meyer & Prof. Adam Chlipala
 - Term: Spring 2015
 - Start date: April 27, 2022
-- Status: Started
+- Completion date: May 5, 2022
+- Status: Complete
 
-Matt's Review:
-
+**Matt's Review**: 6.042J was almost all review from a collection of introductory undergrad math courses (mostly number theory, group theory, graph theory, and real analysis with a sprinkle of probability at the end). It was a well designed course with easy-to-follow course notes. 5/5! 
 
 ### 6.004: Computation Structures
 - Instructor(s): Prof. Chris Terman
