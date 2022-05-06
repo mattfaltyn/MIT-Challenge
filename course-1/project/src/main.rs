@@ -1,20 +1,14 @@
+// Import dependencies 
 extern crate glass_pumpkin;
-
-
 extern crate num_traits;
 
-
-
-
+// Use declarations 
 use num_traits::*;
-
 use glass_pumpkin::prime;
-
 use num_bigint::{BigInt,Sign};
-
 use std::env;
 
-
+// Define modular inverse
 fn modinv(a0: BigInt, m0: BigInt) -> BigInt {
     if m0 == one() {return one()}
     let (mut a, mut m, mut x0, mut inv) = (a0, m0.clone(), zero(), one());
@@ -28,7 +22,7 @@ fn modinv(a0: BigInt, m0: BigInt) -> BigInt {
     inv
     }
 
-
+// Define RSA cryptosystem
 fn main(){
 
     let mut no_bits=512;
