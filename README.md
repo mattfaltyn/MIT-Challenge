@@ -8,6 +8,7 @@ I am embarking on this journey to accomplish one major objective: develop a thor
 
 Listed below are the 12 classes I will be covering. For each of these classes, I will create and publish a short document that contains the notes that I found most interesting or important. Additionally, I will create a small implementation of one of the course's topics in Rust. 
 
+[**See GitHub Repo**](https://github.com/mattfaltyn/MIT-Challenge)
 
 ## Learning Progress (1/12):
 
@@ -24,7 +25,10 @@ Listed below are the 12 classes I will be covering. For each of these classes, I
 ### 6.004: Computation Structures
 - Instructor(s): Prof. Chris Terman
 - Term: Spring 2017
-- Status: Not Started
+- Start date: May 15, 2022
+- Completion date: TBD
+- Project: TBD
+- Status: In Progress
 
 Matt's Review:
 
