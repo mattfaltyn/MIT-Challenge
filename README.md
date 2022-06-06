@@ -6,7 +6,7 @@ During my formal training in mathematics, I spent some time writing and analyzin
 
 I am embarking on this journey to accomplish one major objective: develop a thorough understanding of algorithms and data structures. From reviewing the MIT computer science curriculum and comparing it to my university transcript, I believe that the main gap in my understanding of computer science is precisely these two concepts. 
 
-Listed below are the 12 classes I will be covering. For each of these classes, I will create and publish a short document that contains the notes that I found most interesting or important. Additionally, I will create a small implementation of one of the course's topics in Rust. 
+Listed below are the 12 classes I will be covering. For each of these classes, I will create and publish a short document that contains the notes that I found most interesting or important.
 
 [**See GitHub Repo**](https://github.com/mattfaltyn/MIT-Challenge)
 
@@ -15,22 +15,22 @@ Listed below are the 12 classes I will be covering. For each of these classes, I
 ### 6.042J: Mathematics for Computer Science
 - Instructor(s): Prof. Albert R. Meyer & Prof. Adam Chlipala
 - Term: Spring 2015
+- Status: Complete
 - Start date: April 27, 2022
 - Completion date: May 5, 2022
-- Project: Raw implementation of RSA cryptosystem 
-- Status: Complete
+
 
 **Matt's Review**: 6.042J was almost all review from a collection of introductory undergrad math courses (mostly number theory, group theory, graph theory, and real analysis with a sprinkle of probability at the end). It was a well designed course with easy-to-follow course notes. 5/5! 
 
 ### 6.004: Computation Structures
 - Instructor(s): Prof. Chris Terman
 - Term: Spring 2017
+- Status: In Progress
 - Start date: May 15, 2022
 - Completion date: TBD
-- Project: TBD
-- Status: In Progress
 
-Matt's Review:
+
+Matt's Review: TBD
 
 
 ### 6.005: Software Construction
@@ -38,7 +38,7 @@ Matt's Review:
 - Term: Spring 2016
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.006: Introduction to Algorithms
@@ -54,7 +54,7 @@ Matt's Review:
 - Term: Fall 2018
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.033: Computer Systems Engineering
@@ -62,7 +62,7 @@ Matt's Review:
 - Term: Spring 2018
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.035: Computer Language Engineering
@@ -70,7 +70,7 @@ Matt's Review:
 - Term: Spring 2010
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.046[J]: Design and Analysis of Algorithms
@@ -78,7 +78,7 @@ Matt's Review:
 - Term: Spring 2015
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.820: Fundamentals of Program Analysis
@@ -86,7 +86,7 @@ Matt's Review:
 - Term: Fall 2015
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.814: Database Systems
@@ -94,7 +94,7 @@ Matt's Review:
 - Term: Fall 2010
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.854J: Advanced Algorithms
@@ -102,7 +102,7 @@ Matt's Review:
 - Term: Fall 2008
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.851: Advanced Data Structures
@@ -110,4 +110,4 @@ Matt's Review:
 - Term: Spring 2012
 - Status: Not Started
 
-Matt's Review:
+Matt's Review: TBD
