@@ -11,7 +11,7 @@ Listed below are the 11 classes I will be covering. For each of these classes, I
 [**See GitHub Repo**](https://github.com/mattfaltyn/MIT-Challenge)
 
 
-## Learning Progress (2/12):
+## Learning Progress (3/11):
 
 ### 6.042J: Mathematics for Computer Science
 - Instructor(s): Prof. Albert R. Meyer & Prof. Adam Chlipala
@@ -36,19 +36,21 @@ Listed below are the 11 classes I will be covering. For each of these classes, I
 ### 6.005: Software Construction
 - Instructor(s): Prof. Robert Miller & Dr. Max Goldman
 - Term: Spring 2016
-- Status: Started
+- Status: Complete
 - Start date: July 1, 2022
-- Completion date: TBD
+- Completion date: July 11, 2022
 
-Matt's Review: TBD
+**Matt's Review**: 6.005 started out strong. Its focus on how to write software that is safe from bugs, easy to understand, and ready for change (i.e., the three main themes of the course) never left me wondering why I was studying the material. However, the quality of the course material began to oscillate after Reading 17; some chapters would be very strong while others would fall flat. I think this course could benefit from further modularization, particularly in the later half. A book such as Code Complete (2nd edition) by Steve McConnell may be a better introduction to software development. **3.5/5.**
 
 
 ### 6.006: Introduction to Algorithms
 - Instructor(s): Prof. Erik Demaine & Dr. Jason Ku & Prof. Justin Solomon
 - Term: Spring 2020
-- Status: Not Started
+- Status: Started
+- Start date: July 12, 2022
+- Completion date: TBD
 
-Matt's Review:
+Matt's Review: TBD
 
 
 ### 6.172: Performance Engineering of Software Systems
