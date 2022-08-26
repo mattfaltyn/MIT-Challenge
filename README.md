@@ -6,7 +6,7 @@ During my formal training in mathematics, I spent some time writing and analyzin
 
 I am embarking on this journey to accomplish one major objective: develop a comprehensive understanding of the fundamentals of algorithms and data structures. From reviewing the MIT computer science curriculum and comparing it to my university transcript, I believe that the main gap in my understanding of computer science is precisely these two concepts. 
 
-Listed below are the 5 classes I will be covering. For each of these classes, I will either a) create and publish a short document that contains the notes that I found most interesting or important or b) create Anki notes. 
+Listed below are the 5 classes I will be covering. For each of these classes, I will either a) create and publish a short document that contains the notes that I found most interesting or important or b) create Anki notes which are available upon request. 
 
 [**See GitHub Repo**](https://github.com/mattfaltyn/MIT-Challenge)
 
